@@ -1,0 +1,16 @@
+{
+    "name": "Volkswagen Fusca",
+    "description": "El Volkswagen Escarabajo se concibió en la década de 1930, como un encargo del dictador Adolf Hitler al diseñador Ferdinand Porsche. La idea era contar con un auto económico, que alcanzara los 100 kilómetros por hora y con capacidad para 4 personas. El 27 de diciembre de 1945 comenzaba a producirse en serie el Volkswagen Tipo 1, denominado de manera no oficial como Beetle y conocido también en distintas partes del planeta como Escarabajo, Vocho o Fusca, entre otras tantas denominaciones que recibió.",
+    "cost": 4500,
+    "currency": "USD",
+    "soldCount": 100,
+    "category": "Autos",
+    "images": [
+        "img/prod6.jpg",
+        "img/prod6_1.jpg",
+        "img/prod6_2.jpg",
+        "img/prod6_3.jpg",
+        "img/prod6_4.jpg"
+    ],
+    "relatedProducts": [1, 3]
+}

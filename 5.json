@@ -1,0 +1,16 @@
+{
+    "name": "Lamborghini Aventador",
+    "description": "El Lamborghini Aventador, sustituto natural del Murciélago, es un superdeportivo biplaza que cuenta con un motor atmosférico V12 de 6.500 cc y tracción a las cuatro ruedas. Mide 4,80 metros de largo, 2.03 de ancho y 1,14 de alto y tiene un maletero de 140 litros.",
+    "cost": 410000,
+    "currency": "USD",
+    "soldCount": 3,
+    "category": "Autos",
+    "images": [
+        "img/prod5.jpg",
+        "img/prod5_1.jpg",
+        "img/prod5_2.jpg",
+        "img/prod5_3.jpg",
+        "img/prod5_4.jpg"
+    ],
+    "relatedProducts": [1, 3]
+}
